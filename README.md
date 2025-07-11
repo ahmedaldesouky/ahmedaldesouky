@@ -32,6 +32,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats :<br>Real-world data analysis project using Power BI, SQL, and Excel – built as part of my learning journey transitioning from banking to data analytics.</h3>
 
 ###
